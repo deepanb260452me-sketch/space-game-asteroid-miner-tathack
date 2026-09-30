@@ -96,5 +96,20 @@ into the final project.
 
 Deepan Raj - Game Development
 Vijesh - Video Editing
-Dhivyanshu Singh Tomar - 
-Hashir Azam - 
+Dhivyanshu Singh Tomar - Documenting
+Hashir Azam - Design/ Testing
+
+##Developer
+
+Deepan Raj 
+Game development
+
+##Hackathon
+This game is made for TATHACK-Flagship hackathon of NITC's TATHVA
+
+##Objective
+To create a space themed modern game.
+
+##Solution
+
+Asteroid Miner is a modern survival, explorable, fun game.
