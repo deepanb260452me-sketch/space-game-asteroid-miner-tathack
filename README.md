@@ -8,8 +8,8 @@ A Space themed fast-paced and space explorable game where we use our spaceship t
 ##Screenshots
 
 %20: ![Main Menu](Screenshot%202026-09-30%20113509.png).
-%20: ![Laser Mining](
-%20: ![Nebulae](
-%20: ![Star System](
-%20: ![Black Hole](
-%20: ![Docking](
+%20: ![Laser Mining](Screenshot%202026-09-30%20113647.png).
+%20: ![Nebulae](Screenshot%202026-09-30%20113842.png).
+%20: ![Star System](Screenshot%202026-09-30%20113925.png).
+%20: ![Black Hole](Screenshot%202026-09-30%20114242.png).
+%20: ![Docking](Screenshot%202026-09-30%20114540.png).
