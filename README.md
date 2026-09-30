@@ -3,5 +3,7 @@ A Space themed fast-paced and space explorable game where we use our spaceship t
 
 #Game Demo 
 
-https://deepanb260452me-sketch.github.io/space-game-asteroid-miner-tathack/
+[Play the Game] https://deepanb260452me-sketch.github.io/space-game-asteroid-miner-tathack/
+
+
 
